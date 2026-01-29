@@ -1,3 +1,5 @@
+![Power BI Analytics Portfolio](assets/repo-banner.png)
+
 # 📊 Power BI Analytics Portfolio
 
 A professional GitHub repository showcasing end-to-end Power BI projects focused on data analysis, visualization, and business insights.  
