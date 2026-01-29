@@ -1,4 +1,4 @@
-![Power BI Analytics Portfolio](assets/repo-banner.png)
+![Power BI Analytics Portfolio](assets/repo-banner.jpg)
 
 # 📊 Power BI Analytics Portfolio
 
