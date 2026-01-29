@@ -103,7 +103,7 @@ All projects in this repository were developed **in collaboration** by:
 ## 📬 Contact
 
 - LinkedIn: *https://www.linkedin.com/in/ibrahim-hamdy-83a964292/*  
-- Email: *ihamdy719@gmail.com *  
+- Email: *ihamdy719@gmail.com*  
 
 ---
 
