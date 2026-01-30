@@ -56,6 +56,7 @@ Each folder inside the `projects` directory represents a **standalone Power BI p
 | Project Name | Description | Tools | Status |
 |-------------|------------|-------|--------|
 | **Spotify Streaming Analysis** | Analysis of Spotify streaming data to explore listening trends, top artists, and popular tracks using interactive dashboards. | Power BI, DAX, Excel | ✅ Completed |
+| **COVID-19 Global Analysis** | A comprehensive Power BI dashboard for exploring global COVID-19 trends, country-level performance, and the impact of government policies. | Power BI, DAX, CSV | ✅ Completed |
 
 
 ---
