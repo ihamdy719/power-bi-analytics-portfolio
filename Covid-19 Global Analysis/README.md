@@ -48,7 +48,7 @@ Provides a **high-level snapshot** of the pandemic globally, highlighting major 
 ---
 
 ### 2️⃣ Country Deep Dive Page
-![Country Deep Dive](assets/country.png)
+![Country Deep Dive](assets/country_deep_dive.png)
 
 #### Content:
 - Country selector for focused analysis.
@@ -84,7 +84,7 @@ Highlights **correlations and patterns** between policy measures, cases, and fat
 ---
 
 ### 4️⃣ Ranking Table Page
-![Ranking](assets/ranking table.png)
+![Ranking](assets/ranking_table.png)
 
 #### Content:
 - Interactive ranking table including:
