@@ -26,7 +26,7 @@ The dashboard is designed to help users:
 ---
 
 ### 1️⃣ Overview Page
-![Overview](assets/Overview.png)
+![Overview](assets/overview.png)
 
 #### Content:
 - Global KPIs:
@@ -48,7 +48,7 @@ Provides a **high-level snapshot** of the pandemic globally, highlighting major 
 ---
 
 ### 2️⃣ Country Deep Dive Page
-![Country Deep Dive](assets/Country.png)
+![Country Deep Dive](assets/country.png)
 
 #### Content:
 - Country selector for focused analysis.
@@ -68,7 +68,7 @@ Enables **deep analysis of individual countries**, helping evaluate performance 
 ---
 
 ### 3️⃣ Relationships Page
-![Relationships](assets/Relationships.png)
+![Relationships](assets/relationships.png)
 
 #### Content:
 - Bubble Chart 1:
@@ -84,7 +84,7 @@ Highlights **correlations and patterns** between policy measures, cases, and fat
 ---
 
 ### 4️⃣ Ranking Table Page
-![Ranking](assets/Ranking.png)
+![Ranking](assets/ranking table.png)
 
 #### Content:
 - Interactive ranking table including:
